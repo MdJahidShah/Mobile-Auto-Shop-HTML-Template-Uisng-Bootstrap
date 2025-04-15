@@ -486,6 +486,9 @@ img.serviceimg {
     font-weight: bold;
     color: #c8102e;
 }
+.banner-section h3 {
+    font-size: 21px;
+}
 .banner-section p {
     font-weight: lighter;
     margin-bottom: 20px;
@@ -498,8 +501,12 @@ img.serviceimg {
     padding: 0;
 }
 .info-section ul li {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-bottom: 10px;
+    color: #cfcfcf;
+}
+.info-section ul li:hover{
+    color:#07b36b
 }
 .social-icons a {
     color: white;
